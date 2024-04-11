@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../css/Login_Signup.css">
+    <title>Signup Page</title>
+</head>
+<body>
+    <div class="container">
+        <!-- Sử dụng method="post" để gửi dữ liệu lên server -->
+        <form class="register" method="post" action="/Home/SignupPage">
+            <h2>Register</h2>
+            <label class="name-ip" for="">Username</label>
+            <div class="form-heading">
+                <label for=""><i class="fa-solid fa-user"></i></label>
+                <!-- Sử dụng name="username" để gửi dữ liệu tên người dùng lên server -->
+                <input type="text" name="username" id="" placeholder="Type your name">
+            </div>
+            <hr>
+            <label class="name-ip" for="">Password</label>
+            <div class="form-heading">
+                <label for=""><i class="fa-solid fa-lock"></i></label>
+                <!-- Sử dụng name="password" để gửi dữ liệu mật khẩu lên server -->
+                <input type="password" name="password" id="" placeholder="Type your password">
+            </div>
+            <hr>
+            <label class="name-ip" for="">Student code</label>
+            <div class="form-heading">
+                <label for=""><i class="fa-solid fa-graduation-cap"></i></i></label>
+                <!-- Sử dụng name="accountId" để gửi dữ liệu mã sinh viên lên server -->
+                <input type="text" name="accountId" id="" placeholder="Type your student code">
+            </div>
+            <hr>
+            <div class="footer-form">
+                <div class="other">
+                    <span>
+                        Already have an account ? <a href="/home/loginpage">Login now</a>
+                    </span>
+                </div>
+            </div>
+
+            <div class="form-btn">
+                <button type="submit">
+                    <!-- Sử dụng type="submit" để kích hoạt việc gửi form -->
+                    Submit
+                </button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

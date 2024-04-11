@@ -1,0 +1,54 @@
+﻿@model StudentManagerSystem.Models.Account
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../css/Login_Signup.css">
+    <title>Login Page</title>
+</head>
+<body>
+    <div class="container">
+        <form asp-action="LoginPage">
+
+            <h2>Login</h2>
+            <div class="form_lgsp form_login text-danger result" asp-validation-summary="ModelOnly"></div>
+
+            <label class="name-ip" for="">Username</label>
+            <div class="form-heading mb-3">
+                <label asp-for="@Model.Username" class="form-label"><i class="fa-solid fa-user"></i></label>
+                <input type="text" class="form-control" id="validationServerEmail" asp-for="@Model.Username" placeholder="Enter your email" required>
+                <span asp-validation-for="@Model.Username" class="text-danger result"></span>
+
+
+            </div>
+            <hr>
+            
+            <div class="name-ip mb-3">
+                <label class="name-ip" for="">Password</label>
+                <div class="form-heading form-item w-100">
+                    <label asp-for="@Model.Password" class="form-label"><i class="fa-solid fa-lock"></i></label>
+                    <input asp-for="@Model.Password" class="form-control password" type="password" placeholder="Enter your password">
+                    <span asp-validation-for="@Model.Password" class="text-danger result"></span>
+                </div>
+            </div>
+            <hr>
+            <div class="footer-form">
+
+                <div class="other plus">
+                    <span>
+                        No account ? <a href='/home/signupPage'> Register now</a>
+                    </span>
+                </div>
+            </div>
+
+            <div class="form-btn">
+                <button type="submit" onclick="Login()">
+                    Login
+                </button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

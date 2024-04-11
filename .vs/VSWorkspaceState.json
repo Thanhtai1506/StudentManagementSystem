@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StudentManagerSystem",
+    "\\StudentManagerSystem\\Controllers",
+    "\\StudentManagerSystem\\Models",
+    "\\StudentManagerSystem\\Views",
+    "\\StudentManagerSystem\\Views\\Admin",
+    "\\StudentManagerSystem\\wwwroot",
+    "\\StudentManagerSystem\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\StudentManagerSystem.sln",
+  "PreviewInSolutionExplorer": false
+}

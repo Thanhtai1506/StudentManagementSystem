@@ -1,0 +1,98 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    size: 16rem;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container_subject {
+    width: 100%;
+}
+
+.header_subject {
+    width: 100%;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+    .header_subject h2 {
+        /* text-align: center; */
+        width: 20rem;
+    }
+
+.body_subject {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height:506px;
+    margin-top:-22px;
+}
+
+    .body_subject .content_subject {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 3rem;
+        max-width: 90%;
+        max-height: 610px;
+        height: 610px;
+        border: 1px solid black;
+        border-radius: 0.6rem;
+        overflow-x: auto; /* Hiển thị thanh trượt ngang khi bảng rộng hơn div */
+        overflow-y: auto; /* Hiển thị thanh trượt dọc khi bảng cao hơn div */
+        max-height: 610px; /* Đặt chiều cao tối đa của div */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+        height:475px;
+    }
+
+.content_subject::-webkit-scrollbar {
+    width: 0;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border-bottom: 1px solid black;
+}
+
+
+th, td {
+    padding: 0.6rem;
+    height: 3rem;
+}
+
+
+td {
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+    table tr:last-child td {
+        border-bottom: none;
+    }
+
+th {
+    position: sticky;
+    top: 0;
+    background-color: whitesmoke; /* Đặt màu nền của thẻ th */
+    z-index: 1; /* Đảm bảo thẻ th hiển thị phía trên các thẻ khác */
+}
+
+tr {
+    height: 4rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

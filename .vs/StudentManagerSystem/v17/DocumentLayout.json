@@ -1,0 +1,561 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\home\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\home\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\studentadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\studentadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\editclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\editclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\class.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\class.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\edittest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\edittest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\wwwroot\\css\\edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\wwwroot\\css\\edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\editaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\editaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\editsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\editsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\editresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\editresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\editinstructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\editinstructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\models\\quanlisinhviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\models\\quanlisinhviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\wwwroot\\css\\student.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\wwwroot\\css\\student.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\home\\informationstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\home\\informationstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\wwwroot\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\wwwroot\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|f:\\web\\webstudentmanagerment system(3)\\webstudentmanagerment system(3)\\student manager system website\\studentmanagersystem\\studentmanagersystem\\views\\home\\class.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCBFE77-9DD8-46E4-9443-C158FFBC24BB}|StudentManagerSystem\\StudentManagerSystem.csproj|solutionrelative:studentmanagersystem\\views\\home\\class.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Models\\Class.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Class.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Models\\Class.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:27:27.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Class.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\Class.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Class.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\Class.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:42:05.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditClass.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditClass.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\EditClass.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditClass.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\EditClass.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T08:40:57.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentAdmin.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\StudentAdmin.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\StudentAdmin.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\StudentAdmin.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\StudentAdmin.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:25:20.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Home\\Subject.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Home\\Subject.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Home\\Subject.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Home\\Subject.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:02:03.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:19:28.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:24:57.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Controllers\\AdminController.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwNAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:17:23.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditTest.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditTest.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\EditTest.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditTest.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\EditTest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:31:16.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.css",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Edit.css",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\wwwroot\\css\\Edit.css",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Edit.css",
+              "RelativeToolTip": "StudentManagerSystem\\wwwroot\\css\\Edit.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T08:57:39.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditResult.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditResult.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\EditResult.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditResult.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\EditResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T18:14:28.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditSubject.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditSubject.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\EditSubject.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditSubject.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\EditSubject.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:02:12.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditAccount.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditAccount.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\EditAccount.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditAccount.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\EditAccount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:31:05.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Result.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Models\\Result.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Result.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Models\\Result.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:24:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditInstructor.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditInstructor.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\EditInstructor.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\EditInstructor.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\EditInstructor.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:30:53.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuanLiSinhVienContext.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\QuanLiSinhVienContext.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Models\\QuanLiSinhVienContext.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\QuanLiSinhVienContext.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Models\\QuanLiSinhVienContext.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:41:01.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T07:28:41.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Test.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Models\\Test.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Test.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Models\\Test.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:47:24.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Models\\Subject.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Subject.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:10:34.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Models\\Student.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:44:28.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Result.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\Result.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Result.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\Result.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T08:25:40.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Subject.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Subject.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\Subject.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Subject.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\Subject.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:41:51.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Account.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Account.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\Account.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Account.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\Account.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T07:31:36.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Instructor.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Instructor.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\Instructor.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Instructor.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\Instructor.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:42:16.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Models\\Instructor.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Instructor.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Models\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:40:46.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Test.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\Test.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Test.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\Test.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:41:43.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:42:12.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Student.css",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Student.css",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\wwwroot\\css\\Student.css",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Student.css",
+              "RelativeToolTip": "StudentManagerSystem\\wwwroot\\css\\Student.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-11T09:09:41.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:42:09.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InformationStudent.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Home\\InformationStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Home\\InformationStudent.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Home\\InformationStudent.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Home\\InformationStudent.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T06:02:46.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.css",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Create.css",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\wwwroot\\css\\Create.css",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Create.css",
+              "RelativeToolTip": "StudentManagerSystem\\wwwroot\\css\\Create.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T08:59:59.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Models\\Account.cs",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Models\\Account.cs",
+              "RelativeToolTip": "StudentManagerSystem\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:32:42.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Class.cshtml",
+              "DocumentMoniker": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Home\\Class.cshtml",
+              "RelativeDocumentMoniker": "StudentManagerSystem\\Views\\Home\\Class.cshtml",
+              "ToolTip": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\Views\\Home\\Class.cshtml",
+              "RelativeToolTip": "StudentManagerSystem\\Views\\Home\\Class.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T06:34:57.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

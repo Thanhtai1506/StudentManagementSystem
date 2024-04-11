@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Subject"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/Result_Subject_Class.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="container_subject">
+            <div class="header_subject">
+                <h2>
+                    VIEW SUBJECT OF STUDENT
+                </h2>
+            </div>
+            <div class="body_subject">
+                <div class="content_subject">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>ID SUBJECT</th>
+                            <th>NAME SUBJECT</th>
+                            <th>TEACHER</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var subject in Model)
+                        {
+                            <tr>
+                                <td>@subject.SubjectId</td>
+                                <td>@subject.SubjectName</td>
+                                <td>@subject.InstructorName</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</body>
+</html>

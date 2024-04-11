@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Account.css",
+      "PackagePath": "staticwebassets\\css\\Account.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Class.css",
+      "PackagePath": "staticwebassets\\css\\Class.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Create.css",
+      "PackagePath": "staticwebassets\\css\\Create.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Delete.css",
+      "PackagePath": "staticwebassets\\css\\Delete.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Edit.css",
+      "PackagePath": "staticwebassets\\css\\Edit.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\FQA.css",
+      "PackagePath": "staticwebassets\\css\\FQA.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\HomePage.css",
+      "PackagePath": "staticwebassets\\css\\HomePage.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\InfomationStudent.css",
+      "PackagePath": "staticwebassets\\css\\InfomationStudent.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Instructor.css",
+      "PackagePath": "staticwebassets\\css\\Instructor.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Layout.css",
+      "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Login_Signup.css",
+      "PackagePath": "staticwebassets\\css\\Login_Signup.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Result.css",
+      "PackagePath": "staticwebassets\\css\\Result.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Result_Subject_Class.css",
+      "PackagePath": "staticwebassets\\css\\Result_Subject_Class.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Student.css",
+      "PackagePath": "staticwebassets\\css\\Student.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Subject.css",
+      "PackagePath": "staticwebassets\\css\\Subject.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\Test.css",
+      "PackagePath": "staticwebassets\\css\\Test.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\background-form.png",
+      "PackagePath": "staticwebassets\\img\\background-form.png"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\dd.png",
+      "PackagePath": "staticwebassets\\img\\dd.png"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\faq.jpg",
+      "PackagePath": "staticwebassets\\img\\faq.jpg"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\icon_studentmanager.jpeg",
+      "PackagePath": "staticwebassets\\img\\icon_studentmanager.jpeg"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\img_cat.jpeg",
+      "PackagePath": "staticwebassets\\img\\img_cat.jpeg"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\lh.png",
+      "PackagePath": "staticwebassets\\img\\lh.png"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\news.png",
+      "PackagePath": "staticwebassets\\img\\news.png"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\q&a.png",
+      "PackagePath": "staticwebassets\\img\\q&a.png"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\school-software.png",
+      "PackagePath": "staticwebassets\\img\\school-software.png"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\shutterstock_411388219.jpg",
+      "PackagePath": "staticwebassets\\img\\shutterstock_411388219.jpg"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\img\\snapedit_1710158201409.jpeg",
+      "PackagePath": "staticwebassets\\img\\snapedit_1710158201409.jpeg"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\WEb\\WebstudentManagerment system(3)\\WebstudentManagerment system(3)\\Student manager system website\\StudentManagerSystem\\StudentManagerSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentManagerSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentManagerSystem.props",
+      "PackagePath": "build\\StudentManagerSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentManagerSystem.props",
+      "PackagePath": "buildMultiTargeting\\StudentManagerSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentManagerSystem.props",
+      "PackagePath": "buildTransitive\\StudentManagerSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

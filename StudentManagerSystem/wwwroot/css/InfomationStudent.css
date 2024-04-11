@@ -1,0 +1,179 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    size: 16rem;
+}
+
+.container_info {
+    width: 100%;
+    height:580px;
+}
+
+.header_info {
+    width: 100%;
+    height: 13.4rem;
+    display: flex;
+}
+
+.header_main {
+    width: 50%;
+    display: flex;
+    padding-left: 3rem;
+    display: flex;
+    align-items: center;
+}
+
+    .header_main .img_student {
+        width: 30%;
+        margin-right:2rem;
+    }
+
+.info_student {
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+}
+
+    .info_student h5 {
+        font-size: 1rem;
+        width: 100%;
+        margin-top: 0.3rem;
+        padding-bottom: 3rem;
+    }
+
+.name_std {
+    font-size: 1.2rem;
+}
+
+.header_main .img_student img {
+    width: 9rem;
+    height: 9rem;
+    border-radius: 5.5rem;
+
+}
+
+.content_detail label {
+    font-size: 0.9rem;
+}
+
+.other_detail {
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.left_other_detail {
+    width: 50%;
+    border-left: 0.1rem black solid;
+}
+
+
+.other_detail .content_od {
+    display: flex;
+    font-size: 0.9rem;
+}
+
+    .other_detail .content_od i {
+        transform: translateY(40%);
+        font-size: 1rem;
+        /* width: 1.3rem;
+    height: 1.3rem; */
+        line-height: 100%;
+        padding-right: 1rem;
+    }
+
+    .other_detail .content_od span {
+        font-weight: 500;
+    }
+
+.content_od {
+    width: 100%;
+    padding: 1rem;
+}
+
+.semi {
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.content_semi {
+    width: 10rem;
+    height: 2rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin-left: 1.5%;
+    cursor: pointer;
+}
+
+    .content_semi p {
+        text-align: center;
+        line-height: 1.8rem;
+        font-weight: 500;
+        font-size: 0.7rem;
+    }
+
+.table_info {
+    margin-top: 1.5rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content_table {
+    margin-left: 1.5rem;
+    width: 90%;
+}
+
+.name_table {
+    width: 12rem;
+    height: 3rem;
+    margin-left: 1rem;
+}
+
+
+
+tr {
+    border-bottom: 1px solid black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+th {
+    border-right: 1px solid black;
+}
+
+tr:last-child {
+    border-bottom: none;
+    box-shadow:none;
+}
+
+th, td {
+    padding: 0.6rem;
+    height: 3rem;
+}
+
+th {
+    width: 30%;
+}
+
+
+td {
+    font-size: 0.9rem;
+}
+
+table {
+    border-collapse: collapse;
+    width:100%;
+}
+
+.table_form {
+    padding: 0.5rem;
+    border: 1px solid lightgray;
+    border-radius: 1rem;
+    overflow-x: auto; /* Hiển thị thanh trượt ngang khi bảng rộng hơn div */
+    overflow-y: auto; /* Hiển thị thanh trượt dọc khi bảng cao hơn div */
+    max-height: 270px; /* Đặt chiều cao tối đa của div */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}

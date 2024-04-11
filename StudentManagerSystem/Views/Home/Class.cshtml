@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["class"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="../css/Result_Subject_Class.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="container_subject">
+                <div class="header_subject">
+                    <h2>
+                        VIEW CLASS OF STUDENT
+                    </h2>
+                </div>
+                <div class="body_subject">
+                    <div class="content_subject">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>ID CLASS</th>
+                                <th>ID COURSE</th>
+                                <th>CLASS NAME</th>
+                                <th>ACADEMIC YEAR ID</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var cls in Model)
+                            {
+                                <tr>
+                                    <td>@cls.ClassId</td>
+                                    <td>@cls.CourseId</td>
+                                    <td>@cls.ClassName</td>
+                                    <td>@cls.AcademicyearId</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+</body>
+</html>

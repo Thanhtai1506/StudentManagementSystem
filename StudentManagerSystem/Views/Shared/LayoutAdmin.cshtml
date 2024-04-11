@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/layout.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    @RenderSection("css", false)
+</head>
+<body>
+    <div class="container_layout">
+        <!-- nav -->
+        <div class="container_nav">
+            <div class="logo_page">
+                <h2>ADMIN</h2>
+            </div>
+            <!-- <hr> -->
+            <div class="body_nav">
+                <button class="btn_nav" onclick="location.href='/admin/studentadmin'">
+                    <p><i class="fa-solid fa-graduation-cap"></i> Student</p>
+                </button>
+                <button class="btn_nav" onclick="location.href='/admin/result'">
+                    <p><i><i class="fa-regular fa-envelope"></i></i> Result</p>
+                </button>
+
+                <button class="btn_nav" onclick="location.href='/admin/subject'">
+                    <p><i class="fa-solid fa-book-open"></i> Subject</p>
+                </button>
+
+                <button class="btn_nav" onclick="location.href='/admin/class'">
+                    <p><i><i class="fa-solid fa-arrows-to-dot"></i></i>  Class </p>
+                </button>
+
+                <button class="btn_nav" onclick="location.href='/admin/instructor'">
+                    <p><i class="fa-solid fa-school"></i> Instructor</p>
+                </button>
+
+                <button class="btn_nav" onclick="location.href='/Admin/Account'">
+                    <p><i class="fa-solid fa-user"></i></i> Account</p>
+                </button>
+                <button class="btn_nav" onclick="location.href='/admin/test'">
+                    <p><i class="fa-solid fa-user"></i></i> Test</p>
+                </button>
+            </div>
+
+            <div class="footer_nav">
+                <button class="btn_nav" onclick="location.href='/Home/LoginPage'">
+                    <p><i class="fa-solid fa-right-from-bracket"></i>Logout</p>
+                </button>
+            </div>
+        </div>
+
+        <!-- header_layout -->
+        <div class="container_layout_hm">
+            <div class="header_layout">
+
+                <div class="search_ly">
+                    <a href=""><i class="fa-solid fa-magnifying-glass search_ip1"></i></a><input placeholder="Search ..." type="text" class="search_ip ">
+                </div>
+
+                <div class="information">
+                    <div class="information_text">
+                        <!-- Sử dụng dữ liệu từ ViewBag -->
+                        <h5 class="name_std">@ViewBag.Fullname</h5>
+                        <p class="id_std">ID: @ViewBag.UserId</p>
+                    </div>
+                    <div class="information_img">
+                        <img src="https://i.pinimg.com/564x/7e/cc/a7/7ecca70255c20f8641560d5792d0e7a2.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="header_other">
+                    <p><i class="fa-solid fa-bell"></i></p>
+
+                    <div class="language">
+                        <i class="fa-solid fa-earth-americas"></i> <p>VN</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- main layout -->
+            <div class="main_layout">
+                <div class="content_layout" >
+                    @RenderBody()
+                    <!-- content-here -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    @RenderSection("scripts", false)
+</body>
+</html>

@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["StudentAdmin"] = "Student Page";
+    Layout = "~/Views/Shared/LayoutAdmin.cshtml";
+}
+@model List<StudentManagerSystem.Models.Student>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/Create.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+    <div class="capnhat">
+        <div class="capnhat-con">
+            <i class="fa-solid fa-x"></i>
+            <h3>Update student information</h3>
+            
+
+            <form action="" method="post">
+
+                <div class="text-danger result" asp-validation-summary="ModelOnly"></div>
+
+                <ul class="left">
+                    <li>
+                        <p>Student ID: </p>
+                        <input type="text" name="StudentId">
+
+                        <p>FullName: </p>
+                        <input type="text" name="FullName">
+
+                        <p>Gender: </p>
+                        <input type="text" name="Gender">
+
+                        <p>Date Of Birth: </p>
+                        <input type="text" name="DateOfBirth">
+                    </li>
+                </ul>
+                <ul class="right">
+                    <li>
+                        <p>Phone Number: </p>
+                        <input type="text" name="PhoneNumber">
+
+                        <p>Class ID </p>
+                        <input type="text" name="ClassId">
+
+                        <p>Address: </p>
+                        <input type="text" name="Address">
+                    </li>
+                </ul>
+                <button class="btn btn-primary" type="submit"> Add </button>
+            </form>
+
+            
+          
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentManagerSystem
+build_property.RootNamespace = StudentManagerSystem
+build_property.ProjectDir = F:\WEb\WebstudentManagerment system(3)\WebstudentManagerment system(3)\Student manager system website\StudentManagerSystem\StudentManagerSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\WEb\WebstudentManagerment system(3)\WebstudentManagerment system(3)\Student manager system website\StudentManagerSystem\StudentManagerSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/Class.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2xhc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/EditAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/EditClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdENsYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/EditInstructor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEluc3RydWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/EditResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/EditSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFN1YmplY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/EditTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/Instructor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5zdHJ1Y3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/StudentAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/Subject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3ViamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Admin/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/Class.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDbGFzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/FQA.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGUUEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/InformationStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmZvcm1hdGlvblN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/LoginPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpblBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/SignupPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWdudXBQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Home/Subject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJqZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Shared/LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/WEb/WebstudentManagerment system(3)/WebstudentManagerment system(3)/Student manager system website/StudentManagerSystem/StudentManagerSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

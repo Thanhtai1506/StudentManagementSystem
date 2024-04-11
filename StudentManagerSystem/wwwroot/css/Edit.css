@@ -1,0 +1,49 @@
+﻿div.capnhat {
+    width: 1472px;
+    margin-left: 350px;
+}
+
+div.capnhat-con {
+    width: 600px;
+    border: 1px solid rgb(187, 187, 187);
+    margin-top: 35px;
+    margin-left: 115px;
+    height: 780px;
+}
+
+    div.capnhat-con i {
+        margin-left: 560px;
+        margin-top: 20px;
+    }
+
+    div.capnhat-con h3 {
+        font-size: 28px;
+        margin-top: -5px;
+        font-family: sans-serif;
+        text-align: center;
+    }
+
+
+
+        div.capnhat-con ul li {
+            margin-left:100px;
+        }
+
+
+            div.capnhat-con ul li input {
+                margin-bottom: 10px;
+                padding-left: 170px;
+                width: 75%;
+            }
+
+    div.capnhat-con button {
+        margin-left: 225px;
+    }
+
+    .capnhat-con ul li .form-group{
+        list-style-type: none;
+    }
+
+.capnhat-con ul{
+    list-style-type:none;
+}

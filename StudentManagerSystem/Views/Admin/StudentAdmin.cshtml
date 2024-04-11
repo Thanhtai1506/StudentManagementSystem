@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["StudentAdmin"] = "Student Page";
+    Layout = "~/Views/Shared/LayoutAdmin.cshtml";
+}
+@model List<StudentManagerSystem.Models.Student>
+
+@section css {
+    <link rel="stylesheet" href="~/css/Student.css" type="text/css" />
+}
+
+
+@* sao lại có thẻ HTML document ở đây nữa @@ *@
+
+<h2>Student management</h2>
+<a asp-action="Create">Create New</a>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Student ID</th>
+            <th>Fullname</th>
+            <th>Gender</th>
+            <th>Date Of Birth</th>
+            <th>Phone Number</th>
+            <th>Class ID</th>
+            <th>Subject ID</th>
+            <th>Account ID</th>
+            <th>Address</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var AdminStudent in Model)
+        {
+            <tr id="studentRow_@AdminStudent.StudentId">
+                <td>@AdminStudent.StudentId</td>
+                <td>@AdminStudent.Fullname</td>
+                <td>@AdminStudent.Gender</td>
+                <td>@AdminStudent.DateOfBirth</td>
+                <td>@AdminStudent.PhoneNumber</td>
+                <td>@AdminStudent.ClassId</td>
+                <td>@AdminStudent.SubjectId</td>
+                <td>@AdminStudent.AccountId</td>
+                <td>@AdminStudent.Address</td>
+                <td>  
+                    <a asp-action="Edit" asp-controller="Admin" asp-route-id="@AdminStudent.StudentId" class="fa-solid fa-arrow-up-from-bracket"></a>
+                    <a href="#" data-id="@AdminStudent.StudentId" class="btn btn-sm btn-danger btnDelete" >Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+@section scripts {
+    <script>
+
+
+        $(document).ready(function () {
+            $('body').on('click', '.btnDelete', function () {
+                var id = $(this).data("id");
+                var conf = confirm('You Delete Account ?');
+
+                if (conf === true) {
+
+                    $.ajax({
+                        url: '/Admin/DeleteAcc',
+                        type: 'POST',
+                        data: { id: id },
+                        success: function (rs) {
+                            if (rs.success) {
+                                $('#trow_' + id).remove();
+                                location.reload();
+                            }
+                        }
+                    });
+                }
+            });
+        });
+
+    </script>
+}
